@@ -62,12 +62,12 @@ Este repositorio recoge mis proyectos prácticos y evaluables, mostrando mi evol
 ### 🗄️ Bases de Datos & Backend
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [🗄️ Diseño Relacional](./SQL-Diseno-Tienda-y-Hospital/) | Arquitectura y normalización de esquemas para comercio electrónico y gestión hospitalaria. | SQL (DDL) |
-| [🍃 Modelado NoSQL](./NoSQL-Modelado-Documental-JSON/) | Diseño de estructuras documentales (JSON) para sistemas de reservas y redes sociales. | JSON · NoSQL |
-| [🏗️ Gestión de Proyectos](./SQL-Sistema-Gestion-Proyectos/) | Sistema completo de gestión: diseño ER, scripts DDL y DML para empleados, equipos y tareas. | SQL (DDL/DML) |
-| [📊 Consultas Avanzadas & DBA](./SQL-Consultas-Avanzadas-y-DBA/) | Batería de 100 queries complejas (JOINs/HAVING) y administración de seguridad (roles/GRANT). | SQL (DML/DCL) |
-| [🎮 Space Invaders](./01-python-space-invaders/) | Implementación del clásico arcade con lógica de colisiones, bucle de juego y gestión de estados. | Python · Pygame |
-| [📓 Gestor de Notas](./02-python-gestor-notas/) | Aplicación de consola para la persistencia de datos (CRUD) con manejo de archivos y excepciones. | Python · File I/O |
+| [🗄️ Diseño Relacional](https://github.com/JavierJv10/practicas-desarrollo-web/tree/main/SQL-Diseno-Tienda-y-Hospital) | Arquitectura y normalización de esquemas para comercio electrónico y gestión hospitalaria. | SQL (DDL) |
+| [🍃 Modelado NoSQL](https://github.com/JavierJv10/practicas-desarrollo-web/tree/main/NoSQL-Modelado-Documental-JSON) | Diseño de estructuras documentales (JSON) para sistemas de reservas y redes sociales. | JSON · NoSQL |
+| [🏗️ Gestión de Proyectos](https://github.com/JavierJv10/practicas-desarrollo-web/tree/main/SQL-Sistema-Gestion-Proyectos) | Sistema completo de gestión: diseño ER, scripts DDL y DML para empleados, equipos y tareas. | SQL (DDL/DML) |
+| [📊 Consultas Avanzadas & DBA](https://github.com/JavierJv10/practicas-desarrollo-web/tree/main/SQL-Consultas-Avanzadas-y-DBA) | Batería de 100 queries complejas (JOINs/HAVING) y administración de seguridad (roles/GRANT). | SQL (DML/DCL) |
+| [🎮 Space Invaders](https://github.com/JavierJv10/practicas-desarrollo-web/tree/main/Python-Space-Invaders) | Implementación del clásico arcade con lógica de colisiones, bucle de juego y gestión de estados. | Python · Pygame |
+| [📓 Gestor de Notas](https://github.com/JavierJv10/practicas-desarrollo-web/tree/main/Python-Gestor-Notas) | Aplicación de consola para la persistencia de datos (CRUD) con manejo de archivos y excepciones. | Python · File I/O |
 
 *(... mantén aquí el resto de tus proyectos Java y Python ...)*
 
