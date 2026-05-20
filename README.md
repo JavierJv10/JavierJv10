@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola, soy Javier Jimeno! 👋
 
-<!--
-**JavierJv10/JavierJv10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la tecnología y la creación de soluciones digitales.
 
-Here are some ideas to get you started:
+### 🚀 Mis Proyectos Destacados
+* [**Web Lillo**](https://javierjv10.github.io/practicas-desarrollo-web/Web-Lillo/puebloLillo.html) - Maquetación y diseño UX.
+* [**Gestor de Eventos**](https://javierjv10.github.io/practicas-desarrollo-web/Gestor-de-Eventos/index.html) - Lógica y manipulación del DOM.
+* [**Space Invaders**](https://replit.com/@javierjimenovil/Space-Invaders-Python](https://e4dcf41b-d4a8-4d04-b644-20c7ef25f0cc-00-u72xa9oq4uo9.picard.replit.dev/) - Desarrollo en Python con Pygame.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+* **Lenguajes:** Java, JavaScript, Python, HTML, CSS, Bash, SQL.
+* **Herramientas:** Git, Firebase, Linux, React.
+
+### 🔗 Contacto
+* [LinkedIn](https://www.linkedin.com/in/javier-jimeno-villarreal-12babb3aa)
+* 📧 javier.jimenovillarreal@gmail.com
+
+---
+*Si quieres explorar todas mis prácticas, visita mi repositorio: [practicas-desarrollo-web](https://github.com/JavierJv10/practicas-desarrollo-web)*
